@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.compose import ColumnTransformer
-
+import statsmodels.api as sm
 
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
