@@ -1,0 +1,30 @@
+
+Decision Tree Output
+
+                                feature  importance
+3                             DebtRatio    0.197274
+0  RevolvingUtilizationOfUnsecuredLines    0.197175
+4                         MonthlyIncome    0.148208
+6               NumberOfTimes90DaysLate    0.128727
+1                                   age    0.121029
+5       NumberOfOpenCreditLinesAndLoans    0.084476
+9                    NumberOfDependents    0.036923
+2  NumberOfTime30-59DaysPastDueNotWorse    0.036649
+7          NumberRealEstateLoansOrLines    0.027050
+8  NumberOfTime60-89DaysPastDueNotWorse    0.022488
+
+
+
+Random Forest Output
+
+                                feature  importance
+0  RevolvingUtilizationOfUnsecuredLines    0.193248
+3                             DebtRatio    0.180483
+4                         MonthlyIncome    0.146412
+1                                   age    0.126704
+6               NumberOfTimes90DaysLate    0.094175
+5       NumberOfOpenCreditLinesAndLoans    0.088589
+2  NumberOfTime30-59DaysPastDueNotWorse    0.049604
+8  NumberOfTime60-89DaysPastDueNotWorse    0.044971
+9                    NumberOfDependents    0.042272
+7          NumberRealEstateLoansOrLines    0.033542
